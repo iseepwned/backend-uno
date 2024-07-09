@@ -1,0 +1,758 @@
+[
+    {
+        "id": 0,
+        "color": "RED",
+        "number": 0,
+        "type": "NUMBER",
+        "value": 0
+    },
+    {
+        "id": 1,
+        "color": "RED",
+        "number": 1,
+        "type": "NUMBER",
+        "value": 1
+    },
+    {
+        "id": 2,
+        "color": "RED",
+        "number": 1,
+        "type": "NUMBER",
+        "value": 1
+    },
+    {
+        "id": 3,
+        "color": "RED",
+        "number": 2,
+        "type": "NUMBER",
+        "value": 2
+    },
+    {
+        "id": 4,
+        "color": "RED",
+        "number": 2,
+        "type": "NUMBER",
+        "value": 2
+    },
+    {
+        "id": 5,
+        "color": "RED",
+        "number": 3,
+        "type": "NUMBER",
+        "value": 3
+    },
+    {
+        "id": 6,
+        "color": "RED",
+        "number": 3,
+        "type": "NUMBER",
+        "value": 3
+    },
+    {
+        "id": 7,
+        "color": "RED",
+        "number": 4,
+        "type": "NUMBER",
+        "value": 4
+    },
+    {
+        "id": 8,
+        "color": "RED",
+        "number": 4,
+        "type": "NUMBER",
+        "value": 4
+    },
+    {
+        "id": 9,
+        "color": "RED",
+        "number": 5,
+        "type": "NUMBER",
+        "value": 5
+    },
+    {
+        "id": 10,
+        "color": "RED",
+        "number": 5,
+        "type": "NUMBER",
+        "value": 5
+    },
+    {
+        "id": 11,
+        "color": "RED",
+        "number": 6,
+        "type": "NUMBER",
+        "value": 6
+    },
+    {
+        "id": 12,
+        "color": "RED",
+        "number": 6,
+        "type": "NUMBER",
+        "value": 6
+    },
+    {
+        "id": 13,
+        "color": "RED",
+        "number": 7,
+        "type": "NUMBER",
+        "value": 7
+    },
+    {
+        "id": 14,
+        "color": "RED",
+        "number": 7,
+        "type": "NUMBER",
+        "value": 7
+    },
+    {
+        "id": 15,
+        "color": "RED",
+        "number": 8,
+        "type": "NUMBER",
+        "value": 8
+    },
+    {
+        "id": 16,
+        "color": "RED",
+        "number": 8,
+        "type": "NUMBER",
+        "value": 8
+    },
+    {
+        "id": 17,
+        "color": "RED",
+        "number": 9,
+        "type": "NUMBER",
+        "value": 9
+    },
+    {
+        "id": 18,
+        "color": "RED",
+        "number": 9,
+        "type": "NUMBER",
+        "value": 9
+    },
+    {
+        "id": 19,
+        "color": "GREEN",
+        "number": 0,
+        "type": "NUMBER",
+        "value": 0
+    },
+    {
+        "id": 20,
+        "color": "GREEN",
+        "number": 1,
+        "type": "NUMBER",
+        "value": 1
+    },
+    {
+        "id": 21,
+        "color": "GREEN",
+        "number": 1,
+        "type": "NUMBER",
+        "value": 1
+    },
+    {
+        "id": 22,
+        "color": "GREEN",
+        "number": 2,
+        "type": "NUMBER",
+        "value": 2
+    },
+    {
+        "id": 23,
+        "color": "GREEN",
+        "number": 2,
+        "type": "NUMBER",
+        "value": 2
+    },
+    {
+        "id": 24,
+        "color": "GREEN",
+        "number": 3,
+        "type": "NUMBER",
+        "value": 3
+    },
+    {
+        "id": 25,
+        "color": "GREEN",
+        "number": 3,
+        "type": "NUMBER",
+        "value": 3
+    },
+    {
+        "id": 26,
+        "color": "GREEN",
+        "number": 4,
+        "type": "NUMBER",
+        "value": 4
+    },
+    {
+        "id": 27,
+        "color": "GREEN",
+        "number": 4,
+        "type": "NUMBER",
+        "value": 4
+    },
+    {
+        "id": 28,
+        "color": "GREEN",
+        "number": 5,
+        "type": "NUMBER",
+        "value": 5
+    },
+    {
+        "id": 29,
+        "color": "GREEN",
+        "number": 5,
+        "type": "NUMBER",
+        "value": 5
+    },
+    {
+        "id": 30,
+        "color": "GREEN",
+        "number": 6,
+        "type": "NUMBER",
+        "value": 6
+    },
+    {
+        "id": 31,
+        "color": "GREEN",
+        "number": 6,
+        "type": "NUMBER",
+        "value": 6
+    },
+    {
+        "id": 32,
+        "color": "GREEN",
+        "number": 7,
+        "type": "NUMBER",
+        "value": 7
+    },
+    {
+        "id": 33,
+        "color": "GREEN",
+        "number": 7,
+        "type": "NUMBER",
+        "value": 7
+    },
+    {
+        "id": 34,
+        "color": "GREEN",
+        "number": 8,
+        "type": "NUMBER",
+        "value": 8
+    },
+    {
+        "id": 35,
+        "color": "GREEN",
+        "number": 8,
+        "type": "NUMBER",
+        "value": 8
+    },
+    {
+        "id": 36,
+        "color": "GREEN",
+        "number": 9,
+        "type": "NUMBER",
+        "value": 9
+    },
+    {
+        "id": 37,
+        "color": "GREEN",
+        "number": 9,
+        "type": "NUMBER",
+        "value": 9
+    },
+    {
+        "id": 38,
+        "color": "BLUE",
+        "number": 0,
+        "type": "NUMBER",
+        "value": 0
+    },
+    {
+        "id": 39,
+        "color": "BLUE",
+        "number": 1,
+        "type": "NUMBER",
+        "value": 1
+    },
+    {
+        "id": 40,
+        "color": "BLUE",
+        "number": 1,
+        "type": "NUMBER",
+        "value": 1
+    },
+    {
+        "id": 41,
+        "color": "BLUE",
+        "number": 2,
+        "type": "NUMBER",
+        "value": 2
+    },
+    {
+        "id": 42,
+        "color": "BLUE",
+        "number": 2,
+        "type": "NUMBER",
+        "value": 2
+    },
+    {
+        "id": 43,
+        "color": "BLUE",
+        "number": 3,
+        "type": "NUMBER",
+        "value": 3
+    },
+    {
+        "id": 44,
+        "color": "BLUE",
+        "number": 3,
+        "type": "NUMBER",
+        "value": 3
+    },
+    {
+        "id": 45,
+        "color": "BLUE",
+        "number": 4,
+        "type": "NUMBER",
+        "value": 4
+    },
+    {
+        "id": 46,
+        "color": "BLUE",
+        "number": 4,
+        "type": "NUMBER",
+        "value": 4
+    },
+    {
+        "id": 47,
+        "color": "BLUE",
+        "number": 5,
+        "type": "NUMBER",
+        "value": 5
+    },
+    {
+        "id": 48,
+        "color": "BLUE",
+        "number": 5,
+        "type": "NUMBER",
+        "value": 5
+    },
+    {
+        "id": 49,
+        "color": "BLUE",
+        "number": 6,
+        "type": "NUMBER",
+        "value": 6
+    },
+    {
+        "id": 50,
+        "color": "BLUE",
+        "number": 6,
+        "type": "NUMBER",
+        "value": 6
+    },
+    {
+        "id": 51,
+        "color": "BLUE",
+        "number": 7,
+        "type": "NUMBER",
+        "value": 7
+    },
+    {
+        "id": 52,
+        "color": "BLUE",
+        "number": 7,
+        "type": "NUMBER",
+        "value": 7
+    },
+    {
+        "id": 53,
+        "color": "BLUE",
+        "number": 8,
+        "type": "NUMBER",
+        "value": 8
+    },
+    {
+        "id": 54,
+        "color": "BLUE",
+        "number": 8,
+        "type": "NUMBER",
+        "value": 8
+    },
+    {
+        "id": 55,
+        "color": "BLUE",
+        "number": 9,
+        "type": "NUMBER",
+        "value": 9
+    },
+    {
+        "id": 56,
+        "color": "BLUE",
+        "number": 9,
+        "type": "NUMBER",
+        "value": 9
+    },
+    {
+        "id": 57,
+        "color": "YELLOW",
+        "number": 0,
+        "type": "NUMBER",
+        "value": 0
+    },
+    {
+        "id": 58,
+        "color": "YELLOW",
+        "number": 1,
+        "type": "NUMBER",
+        "value": 1
+    },
+    {
+        "id": 59,
+        "color": "YELLOW",
+        "number": 1,
+        "type": "NUMBER",
+        "value": 1
+    },
+    {
+        "id": 60,
+        "color": "YELLOW",
+        "number": 2,
+        "type": "NUMBER",
+        "value": 2
+    },
+    {
+        "id": 61,
+        "color": "YELLOW",
+        "number": 2,
+        "type": "NUMBER",
+        "value": 2
+    },
+    {
+        "id": 62,
+        "color": "YELLOW",
+        "number": 3,
+        "type": "NUMBER",
+        "value": 3
+    },
+    {
+        "id": 63,
+        "color": "YELLOW",
+        "number": 3,
+        "type": "NUMBER",
+        "value": 3
+    },
+    {
+        "id": 64,
+        "color": "YELLOW",
+        "number": 4,
+        "type": "NUMBER",
+        "value": 4
+    },
+    {
+        "id": 65,
+        "color": "YELLOW",
+        "number": 4,
+        "type": "NUMBER",
+        "value": 4
+    },
+    {
+        "id": 66,
+        "color": "YELLOW",
+        "number": 5,
+        "type": "NUMBER",
+        "value": 5
+    },
+    {
+        "id": 67,
+        "color": "YELLOW",
+        "number": 5,
+        "type": "NUMBER",
+        "value": 5
+    },
+    {
+        "id": 68,
+        "color": "YELLOW",
+        "number": 6,
+        "type": "NUMBER",
+        "value": 6
+    },
+    {
+        "id": 69,
+        "color": "YELLOW",
+        "number": 6,
+        "type": "NUMBER",
+        "value": 6
+    },
+    {
+        "id": 70,
+        "color": "YELLOW",
+        "number": 7,
+        "type": "NUMBER",
+        "value": 7
+    },
+    {
+        "id": 71,
+        "color": "YELLOW",
+        "number": 7,
+        "type": "NUMBER",
+        "value": 7
+    },
+    {
+        "id": 72,
+        "color": "YELLOW",
+        "number": 8,
+        "type": "NUMBER",
+        "value": 8
+    },
+    {
+        "id": 73,
+        "color": "YELLOW",
+        "number": 8,
+        "type": "NUMBER",
+        "value": 8
+    },
+    {
+        "id": 74,
+        "color": "YELLOW",
+        "number": 9,
+        "type": "NUMBER",
+        "value": 9
+    },
+    {
+        "id": 75,
+        "color": "YELLOW",
+        "number": 9,
+        "type": "NUMBER",
+        "value": 9
+    },
+    {
+        "id": 76,
+        "color": "BLUE",
+        "number": null,
+        "type": "TAKE_TWO",
+        "value": 20
+    },
+    {
+        "id": 77,
+        "color": "BLUE",
+        "number": null,
+        "type": "TAKE_TWO",
+        "value": 20
+    },
+    {
+        "id": 78,
+        "color": "RED",
+        "number": null,
+        "type": "TAKE_TWO",
+        "value": 20
+    },
+    {
+        "id": 79,
+        "color": "RED",
+        "number": null,
+        "type": "TAKE_TWO",
+        "value": 20
+    },
+    {
+        "id": 80,
+        "color": "YELLOW",
+        "number": null,
+        "type": "TAKE_TWO",
+        "value": 20
+    },
+    {
+        "id": 81,
+        "color": "YELLOW",
+        "number": null,
+        "type": "TAKE_TWO",
+        "value": 20
+    },
+    {
+        "id": 82,
+        "color": "GREEN",
+        "number": null,
+        "type": "TAKE_TWO",
+        "value": 20
+    },
+    {
+        "id": 83,
+        "color": "GREEN",
+        "number": null,
+        "type": "TAKE_TWO",
+        "value": 20
+    },
+    {
+        "id": 84,
+        "color": "BLUE",
+        "number": null,
+        "type": "REVERSE",
+        "value": 20
+    },
+    {
+        "id": 85,
+        "color": "BLUE",
+        "number": null,
+        "type": "REVERSE",
+        "value": 20
+    },
+    {
+        "id": 86,
+        "color": "RED",
+        "number": null,
+        "type": "REVERSE",
+        "value": 20
+    },
+    {
+        "id": 87,
+        "color": "RED",
+        "number": null,
+        "type": "REVERSE",
+        "value": 20
+    },
+    {
+        "id": 88,
+        "color": "YELLOW",
+        "number": null,
+        "type": "REVERSE",
+        "value": 20
+    },
+    {
+        "id": 89,
+        "color": "YELLOW",
+        "number": null,
+        "type": "REVERSE",
+        "value": 20
+    },
+    {
+        "id": 90,
+        "color": "GREEN",
+        "number": null,
+        "type": "REVERSE",
+        "value": 20
+    },
+    {
+        "id": 91,
+        "color": "GREEN",
+        "number": null,
+        "type": "REVERSE",
+        "value": 20
+    },
+    {
+        "id": 92,
+        "color": "BLUE",
+        "number": null,
+        "type": "JUMP",
+        "value": 20
+    },
+    {
+        "id": 93,
+        "color": "BLUE",
+        "number": null,
+        "type": "JUMP",
+        "value": 20
+    },
+    {
+        "id": 94,
+        "color": "RED",
+        "number": null,
+        "type": "JUMP",
+        "value": 20
+    },
+    {
+        "id": 95,
+        "color": "RED",
+        "number": null,
+        "type": "JUMP",
+        "value": 20
+    },
+    {
+        "id": 96,
+        "color": "YELLOW",
+        "number": null,
+        "type": "JUMP",
+        "value": 20
+    },
+    {
+        "id": 97,
+        "color": "YELLOW",
+        "number": null,
+        "type": "JUMP",
+        "value": 20
+    },
+    {
+        "id": 98,
+        "color": "GREEN",
+        "number": null,
+        "type": "JUMP",
+        "value": 20
+    },
+    {
+        "id": 99,
+        "color": "GREEN",
+        "number": null,
+        "type": "JUMP",
+        "value": 20
+    },
+    {
+        "id": 100,
+        "color": null,
+        "number": null,
+        "type": "WILDCARD",
+        "value": 50
+    },
+    {
+        "id": 101,
+        "color": null,
+        "number": null,
+        "type": "WILDCARD",
+        "value": 50
+    },
+    {
+        "id": 102,
+        "color": null,
+        "number": null,
+        "type": "WILDCARD",
+        "value": 50
+    },
+    {
+        "id": 103,
+        "color": null,
+        "number": null,
+        "type": "WILDCARD",
+        "value": 50
+    },
+    {
+        "id": 104,
+        "color": null,
+        "number": null,
+        "type": "TAKE_FOUR_WILDCARD",
+        "value": 50
+    },
+    {
+        "id": 105,
+        "color": null,
+        "number": null,
+        "type": "TAKE_FOUR_WILDCARD",
+        "value": 50
+    },
+    {
+        "id": 106,
+        "color": null,
+        "number": null,
+        "type": "TAKE_FOUR_WILDCARD",
+        "value": 50
+    },
+    {
+        "id": 107,
+        "color": null,
+        "number": null,
+        "type": "TAKE_FOUR_WILDCARD",
+        "value": 50
+    }
+]
